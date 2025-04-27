@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/f223298-nuedupks-projects/v0-dynamic-ecommerce-website](https://vercel.com/f223298-nuedupks-projects/v0-dynamic-ecommerce-website)**
+**https://v0-dynamic-ecommerce-website-pi.vercel.app/**
 
 ## Build your app
 
