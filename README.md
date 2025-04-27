@@ -41,7 +41,7 @@ We offer all types of products across a wide range of categories, with an elegan
 | Next.js 14 (App Router)            | Express.js (Node.js)      | Tailwind CSS            |
 | TypeScript                        | Node.js                  | pnpm Package Manager    |
 | React.js Components               | (Optional MongoDB coming) | PostCSS                 |
-| Custom Hooks (React)               | REST API Structure        | Vercel Deployment       |
+| Custom Hooks (React)               | REST API Structure        | Github+Vercel Deployment       |
 | Tailwind Custom Configuration     |                           | Git & GitHub            |
 
 ---
@@ -104,7 +104,7 @@ You are free to use, modify, and distribute this project for personal and commer
 ---
 
 ✅ This is ready-to-paste into your `README.md`.  
-✅ It continues perfectly after **File Structure**, and matches your project (ShopEase | MERN + TypeScript + Vercel).
+✅ It continues perfectly after **File Structure**, and matches your project (ShopEase | MERN ).
 
 ---
 
